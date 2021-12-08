@@ -1,1 +1,0 @@
-const friends = 'line of code'
